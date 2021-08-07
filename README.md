@@ -8,7 +8,7 @@ To build a classification methodology to determine whether  a Person defaults th
 
 The data has been extracted from the census bureau.
 
-The data contains 32561 instances with the following attributes:
+The data contains 30000 instances with the following attributes:
 
 
 
